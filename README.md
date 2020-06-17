@@ -1,6 +1,6 @@
 # Git Repo for Portfolio
 
-Due to working with NetlifyCMS and requiring OAuth, working on [a personal repo](https://github.com/isabroch/rts-portfolio).
+Due to working with NetlifyCMS and requiring OAuth, working on [a personal repo](https://github.com/isabroch/portfolio/tree/gh-pages).
 
 # praktikperiode-portfolio
 
